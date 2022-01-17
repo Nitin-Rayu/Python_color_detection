@@ -1,5 +1,5 @@
 # Python_color_detection
-Here we are able to detect color in the given image (Python dataset,CSV)
+Here we are able to detect color in the given image (Python dataset,CSV)/n
 To to run program
 Download all the Required files and place them in same folder.
 Rum cmd in that particular folder.
